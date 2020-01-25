@@ -2,15 +2,8 @@
 
 ## Description
 
-The [distribution occurrences](https://github.com/optiforziyan/Liao-et-al-2019/blob/master/Abies_spp_rarefy_rarefied_points.csv) of each *Abies* species were obtained from the following four sources:
+Results of variation partitioning for the predicted habitat suitability simulated by our ensemble models in terms of fractions of variation explained. Variation of the species data matrix is explained by three groups of explanatory variables: CLIM (climatic predictors), NCLIM (non-climatic predictors) and SPAT (spatial predictors), and U is the unexplained variation; a, b and c are unique effects of CLIM and NCLIM factors and SPAT variables, respectively; while d, e, f and g are fractions indicating their joint effects[distribution occurrences](https://github.com/optiforziyan/Liao-et-al-2019/blob/master/Abies_spp_rarefy_rarefied_points.csv) of each *Abies* species were obtained from the following four sources:
 
-(1) the Chinese Virtual Herbarium (CVH, http://www.cvh.ac.cn/);
-
-(2) Global Biodiversity Information Facility (GBIF, http://www.gbif.org/); 
-
-(3) field surveys (21 records); 
-
-(4) published literature (see Appendix S1 in the [supplemental files](https://github.com/optiforziyan/Liao-et-al-2019/blob/master/Literature%20contains%20Abies%20distribution%20data.md))
 
 ## Author(s)
 
