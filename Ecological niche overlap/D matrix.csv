@@ -1,0 +1,8 @@
+"","Q.aquifolioides","Q.longispica","Q.monimotricha","Q.pannosa","Q.guyavaefolia","Q.spinose","Q.senescens"
+"Q.aquifolioides",1,0.442,0.773,0.545,0.461,0.71,0.509
+"Q.longispica",0.441,0.999,0.594,0.765,0.704,0.48,0.612
+"Q.monimotricha",0.772,0.594,1,0.695,0.644,0.822,0.692
+"Q.pannosa",0.545,0.766,0.695,1,0.744,0.613,0.754
+"Q.guyavaefolia",0.462,0.705,0.644,0.744,1,0.56,0.627
+"Q.spinose",0.71,0.481,0.822,0.613,0.56,1,0.691
+"Q.senescens",0.509,0.612,0.692,0.754,0.627,0.691,1
