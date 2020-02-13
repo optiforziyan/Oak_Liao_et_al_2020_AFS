@@ -5,7 +5,8 @@
 [Variation partitioning](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/tree/master/Variation%20partitioning) 
 for the predicted habitat suitability simulated by our ensemble models in terms of fractions of variation explained. Variation of the species data matrix is explained by three groups of explanatory variables: CLIM (climatic predictors), NCLIM (non-climatic predictors) and SPAT (spatial predictors).
 
-Note: CSV files are matrixes of the predicted habitat suitabilities of seven oak species relation to the corresponding environmental factors; Docx files are the results of variation partitioning.
+Note:[Excel chart] (https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/blob/master/Variation%20partitioning/Occurrence_probability_matrix.xlsx)
+are matrixes of the predicted habitat suitabilities of seven oak species relation to the corresponding environmental factors; TXT files are the results of variation partitioning.
 
 [Ecological niche overlap](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/tree/master/Ecological%20niche%20overlap)
 
