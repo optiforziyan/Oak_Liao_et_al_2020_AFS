@@ -1,4 +1,4 @@
-# The potential distributions of seven sympatric oak species in the Hengduan Mountains of Southwest China: The importance of climatic, non-climatic and spatial drivers
+# The potential distributions of seven sympatric oak species in the Hengduan Mountains of Southwest China: The importance of climatic, non-climatic and unconsidered spatial drivers
 
 ## Description
 
