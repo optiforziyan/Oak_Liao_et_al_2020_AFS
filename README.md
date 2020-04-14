@@ -7,9 +7,9 @@ for the predicted habitat suitability simulated by our ensemble models in terms 
 
 Note:
 [The Excel document](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/blob/master/Variation%20partitioning/Occurrence_probability_matrix.xlsx)
-contains a matrix of the predicted habitat suitabilities of seven oak species relation to the corresponding environmental factors; TXT files are the results of variation partitioning for each species.
+contains a matrix of the predicted habitat suitabilities of seven oak species related to the corresponding environmental factors; TXT files are the results of variation partitioning for each species.
 
-(b) [Ecological niche overlap](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/tree/master/Ecological%20niche%20overlap).The environmental niches of the seven sympatric oak species were described and compared from occurrence and environmental data using the framework in Broennimann et al. (2011). All the code and data for analysis can be found in this folder.
+(b) [Ecological niche overlap](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/tree/master/Ecological%20niche%20overlap). The environmental niches of the seven sympatric oak species were described and compared from occurrence and environmental data using the framework in Broennimann et al. (2011). All the code and data for analysis can be found in this folder.
 
 ## References: 
 Broennimann O, Fitzpatrick MC, Pearman PB, Petitpierre B, Pellissier L, Yoccoz NG, Thuiller W, Fortin MJ, Randin C, Zimmermann NE, Graham CH, Guisan A (2012) Measuring ecological niche overlap from occurrence and spatial environmental data. Glob Ecol Biogeogr 21:481–497. https://doi.org/10.1111/j.1466-8238.2011.00698.x
