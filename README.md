@@ -3,7 +3,7 @@
 ## Description
 
 (a) [Variation partitioning](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/tree/master/Variation%20partitioning) 
-for the predicted habitat suitability simulated by our ensemble models in terms of fractions of variation explained. Variation of the species data matrix is explained by three groups of explanatory variables: CLIM (climatic predictors), NCLIM (non-climatic predictors) and SPAT (spatial predictors).
+for the predicted habitat suitability simulated by the ensemble models in terms of fractions of variation explained. Variation of the species data matrix is explained by three groups of explanatory variables: CLIM (climatic predictors), NCLIM (non-climatic predictors) and SPAT (spatial predictors).
 
 Note:
 [The Excel document](https://github.com/optiforziyan/Oak_Liao_et_al_2020_AFS/blob/master/Variation%20partitioning/Occurrence_probability_matrix.xlsx)
