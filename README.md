@@ -25,4 +25,4 @@ Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, Peopl
 
 
 ## Citation
-Liao, Z et al. 2020. Annals of Forest Science (for peer review).
+Liao, Z et al. 2020. Annals of Forest Science http://doi.10.1007/s13595-020-01012-5.
