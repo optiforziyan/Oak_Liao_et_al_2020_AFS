@@ -25,4 +25,4 @@ Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, Peopl
 
 
 ## Citation
-Liao Z, Nobis MP, Xiong Q. et al. 2020. Potential distributions of seven sympatric sclerophyllous oak species in Mountains of Southwest China depend on climatic, non-climatic and independent spatial drivers. Annals of Forest Science. 2020. http://doi.org/10.1007/s13595-020-01012-5
+Liao, Z., Nobis, M.P., Xiong, Q. et al. 2020. Potential distributions of seven sympatric sclerophyllous oak species in Mountains of Southwest China depend on climatic, non-climatic and independent spatial drivers. Annals of Forest Science. 2020. http://doi.org/10.1007/s13595-020-01012-5
