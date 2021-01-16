@@ -20,9 +20,10 @@ Broennimann O, Fitzpatrick MC, Pearman PB, Petitpierre B, Pellissier L, Yoccoz N
 ## Author(s)
 
 Ziyan Liao liaozy@cib.ac.cn
-
 Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
 
 
 ## Citation
 Liao, Z., Nobis, M.P., Xiong, Q. et al. Potential distributions of seven sympatric sclerophyllous oak species in Southwest China depend on climatic, non-climatic, and independent spatial drivers. Annals of Forest Science 78, 5 (2021). https://doi.org/10.1007/s13595-020-01012-5
+
+## Note that if you are interested in using the above dataset, please contact me.
